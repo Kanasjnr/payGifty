@@ -4,13 +4,14 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    cursor: pointer;
 }
 
 .Navbar h2 {
     font-family: "Alfa Slab One", serif;
     font-weight: 400;
-    font-style: normal;
     color: #f4803a;
+    font-style: normal;
 }
 
 .--Navbar-content {
@@ -28,6 +29,7 @@
     padding: 7px;
     color: white;
     background: #f4803a;
+    cursor: pointer;
     border: none;
     border-radius: 5px;
 }

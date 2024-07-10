@@ -1,7 +1,7 @@
 import React from 'react'
-import contentOne from "../../../assets/Ellipse2.png"
-import contentTwo from "../../../assets/Ellipse3.png"
-import contentThree from "../../../assets/Ellipse4.png"
+import contentOne from "../../../../assets/Ellipse2.png"
+import contentTwo from "../../../../assets/Ellipse3.png"
+import contentThree from "../../../../assets/Ellipse4.png"
 import "./Content.css"
 
 const Content = () => {

@@ -1,18 +1,14 @@
 .heroCon {
-    background: rgb(243, 242, 241);
-    height: 100vh;
-    margin: 0 5rem;
+    margin-top: 2rem;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 50px;
-
+    gap: 5rem;
+    padding: 6rem;
 }
 
 .heroBig {
     margin-bottom: 20px;
     font-size: 30px;
-   
+
 }
 
 .heroBig span {
@@ -27,7 +23,7 @@
     background-color: #F47458;
     cursor: pointer;
     color: aliceblue;
-    margin-top: 20px;
+    margin-top: 60px;
     border: none;
     padding: 10px 40px;
     border-radius: 5px;
@@ -38,6 +34,7 @@
 }
 
 .heroPic {
-    width: 600px;
-    height: 450px;
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
 }
