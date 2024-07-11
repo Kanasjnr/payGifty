@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Offer/Offer.css'
-import { giftImg, redeemImg, designImg } from '../../../assets'
+import { giftImg, redeemImg, designImg } from '../../../../assets'
 
 const Offer = () => {
   return (
